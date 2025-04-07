@@ -1,4 +1,4 @@
- //3D虚拟工厂 QQ：3843687855
+ //3D虚拟工厂 QQ：3843687855 网址：http://www.zjzqrj.cn
 export default class DeviceSpriteDom {
   pointContainer: HTMLElement;
   constructor(color: string, name: string) {

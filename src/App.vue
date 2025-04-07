@@ -1,4 +1,4 @@
-<!-- 3D虚拟工厂 QQ：3843687855 -->
+<!-- 3D虚拟工厂 QQ：3843687855 网址：http://www.zjzqrj.cn  -->
 <template>
   <!-- 进度条 -->
   <div ref="refProgressBar" class="progressBar">
@@ -200,7 +200,7 @@
   <div ref="webg1" style="overflow: hidden;"></div>
 </template>
 <script setup lang="ts">
-//3D虚拟工厂 QQ：3843687855
+//3D虚拟工厂 QQ：3843687855 网址：http://www.zjzqrj.cn
 // 系统级
 import { ref, getCurrentInstance, onMounted, onBeforeUnmount } from 'vue' //vue系统
 import * as THREE from 'three' //three.js

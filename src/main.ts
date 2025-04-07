@@ -1,4 +1,4 @@
- //3D虚拟工厂 QQ：3843687855
+ //3D虚拟工厂 QQ：3843687855 网址：http://www.zjzqrj.cn
 import { createApp } from 'vue'
 import App from './App.vue'
 import ElementPlus from 'element-plus';
